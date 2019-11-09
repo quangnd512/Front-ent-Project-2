@@ -1,0 +1,1 @@
+$(".banner-slide").slick({infinite:!0,autoplay:!0,arrows:!1,dots:!0}),$("#pro-slide").slick({infinite:!0,slidesToShow:2,slidesToScroll:1});
